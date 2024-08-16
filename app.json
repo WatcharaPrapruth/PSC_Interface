@@ -1,0 +1,39 @@
+{
+  "id": "f6166763-0f6f-4128-a863-214ba27b1dbc",
+  "name": "PSC Interface",
+  "publisher": "Yokogawa Votiva Solutions Co., Ltd.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "c80e25ac-8f80-4d65-85b9-211b292609b8",
+      "name": "Thai Localized",
+      "publisher": "Yokogawa Votiva Solutions Co., Ltd.",
+      "version": "23.0.3.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 51000,
+      "to": 51999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
